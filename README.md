@@ -94,4 +94,37 @@ image url должен оканчиваться "gif"
 <p align="center">
 <img src="./readme_assets/demo.png" width="80%"></p>
 
+# 4. Форматирование кода
+Markdown позволяет форматировать текст, как код. Для этого воспользуйтесь знаком \`
+
+Пример:
+
+\`import numpy\`
+
+`import numpy`
+
+Кроме того Markdown позволяет указывать язык, на котором написан код и использовать выделение фрагментов кода, повышая его читаемость.
+
+Пример:
+
+```python
+
+def print_hi(name):# Use a breakpoint in the code line below to debug your script.
+     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+```
+Для этого используется следующий синтаксис:
+
+\`\`\`<название вашего языка программирования>
+
+<блок кода>
+
+\`\`\`
+
+Пример представленный выше:
+
+\`\`\`python
+
+def print_hi(name):# Use a breakpoint in the code line below to debug your script.
+     print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+\`\`\`
 
