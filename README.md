@@ -91,6 +91,10 @@ image url должен оканчиваться "gif"
 
 - `<h2 align="center"><a  href="https://solitairevue.firebaseapp.com">Live Demo</a></h2>`
 
+или
+
+- `[Live Demo](https://solitairevue.firebaseapp.com)`
+
 Как это будет выглядеть в вашем README файле на примере "паука".
 
 <p align="center">
