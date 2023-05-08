@@ -83,3 +83,15 @@ image url должен оканчиваться "gif"
 <p align="center">
 <img src="./readme_assets/Load_shield.png" width="80%"></p>
 
+# 3. Добавляем демо-версию
+Если есть возможность, разместите проект на своих ресурсах и скопируйте ссылку на демо-версию и добавьте её в ваш README файл. 
+Для добавления ссылок можно использовать следующий синтаксис:
+
+- `<h2 align="center"><a  href="https://solitairevue.firebaseapp.com">Live Demo</a></h2>`
+
+Как это будет выглядеть в вашем README файле на примере "паука".
+
+<p align="center">
+<img src="./readme_assets/demo.png" width="80%"></p>
+
+
