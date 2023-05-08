@@ -1,5 +1,7 @@
 
 # Making_README
+![GitHub all releases](https://img.shields.io/github/downloads/babahasko/Making_README/total?logo=GitHub)![GitHub watchers](https://img.shields.io/github/watchers/babahasko/Making_README?logo=GitHub)
+
 ## Что это?
 Этот документ содержит краткие фичи для создания хорошего README файла и предназначен для начинающих разработчиков.
 
